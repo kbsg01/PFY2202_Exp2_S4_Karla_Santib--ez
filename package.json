@@ -3,7 +3,6 @@
   "private": true,
   "version": "1.0.0",
   "type": "module",
-  "homepage": "https://kbsg01.github.io/PFY2202_Exp2_S4_Karla_Santib--ez/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
@@ -33,5 +32,6 @@
   "allowScripts": {
     "esbuild@0.28.2": true,
     "msw@2.15.0": true
-  }
+  },
+  "homepage": "https://kbsg01.github.io/PFY2202_Exp2_S4_Karla_Santib--ez/"
 }
