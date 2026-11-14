@@ -95,7 +95,3 @@ tests/                         # Pruebas con node:test
 - **Accesibilidad:** indicadores con `role="status"`, errores con `role="alert"`, `aria-busy` en las secciones que cargan y navegación completa por teclado.
 - **Publicación:** `HashRouter` y `base: './'` permiten que las rutas y los recursos funcionen en GitHub Pages.
 - **Persistencia:** la caché vive en memoria y se reinicia al recargar la página.
-
-## Nombre del repositorio
-
-Las instrucciones piden publicar el proyecto en GitHub como `hospital-nombre-apellido-siglaCurso`, por lo que el repositorio se llama `hospital-karla-santigut-PFY2202`, aunque el caso es una tienda de libros.
